@@ -141,7 +141,7 @@ const Portfolio = () => {
               className="bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 px-8 py-3 rounded-full font-semibold transition-all transform hover:scale-105 flex items-center gap-2">
               <Github size={20} /> GitHub
             </a>
-            <a href="https://linkedin.com/in/siddhant-singh" target="_blank" rel="noopener noreferrer"
+            <a href="https://www.linkedin.com/in/siddhant-pratap-singh-rajawat-0741b424a/" target="_blank" rel="noopener noreferrer"
               className="bg-gray-800 hover:bg-gray-700 px-8 py-3 rounded-full font-semibold transition-all transform hover:scale-105 flex items-center gap-2">
               <Linkedin size={20} /> LinkedIn
             </a>
